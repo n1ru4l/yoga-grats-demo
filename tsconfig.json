@@ -1,0 +1,14 @@
+{
+  "grats": {
+    "tsSchema": "./src/schema.ts",
+    "nullableByDefault": false,
+    "tsSchemaHeader": "// @ts-nocheck"
+  },
+  "compilerOptions": {
+    "module": "NodeNext",
+    "target": "ESNext",
+    "moduleResolution": "NodeNext",
+    "strict": true,
+    "outDir": "./dist"
+  }
+}
